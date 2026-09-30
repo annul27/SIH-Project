@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Manakai - BIS AI Assistant",
+  title: "ManakAI - BIS Standards Hub",
   description:
     "AI-powered Intelligent Assistant for Indian Standards and BIS Services",
 };
